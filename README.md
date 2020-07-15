@@ -2,6 +2,7 @@
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 **Stuff about me: **
 
 - 🔭 I’m currently working on Food deilvery application
