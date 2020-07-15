@@ -10,6 +10,5 @@
 - 💬 Ask me about web application development
 - 🤔 I’m looking for help with data structures and algorithms.
 - 📫 How to reach me: imsushant25@gmail.com
-- ⚡ Fun fact: ...
 
 ![Sushant's github stats](https://github-readme-stats.vercel.app/api?username=i-sushant&show_icons=true&hide_border=true&hide=["stars"])
